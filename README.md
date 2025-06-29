@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋 What’s Cookin’ Good Lookin’ Data?</h1>
+<h1 align="left">Its me cytric!</h1>
 
-<p align="center">
+<p align="left">
   <em>“If data was fuel, I’d be an engine running at 13,000 RPM. Add a guitar riff, and that’s me deploying a pipeline.”</em>
 </p>
 

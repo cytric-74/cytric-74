@@ -13,7 +13,6 @@
 
 ### 🛠️ Me, In Binary and Chaos
 
-```ts
 const Rohan = {
   profession: "Data Analyst | Code Churner | CFD Learner",
   toolsIKnow: ["Python", "Power BI", "Java", "MySQL", "Tableau", "AWS", "React"],

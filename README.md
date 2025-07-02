@@ -5,7 +5,7 @@
 </p>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=cytric-74&theme=tokyonight&hide_border=false&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=cytric-74&theme=slateorange&hide_border=false&border_radius=5" height="150" />
 </div>
 
 ---

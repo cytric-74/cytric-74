@@ -12,7 +12,7 @@
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=cytric-74&theme=great-gatsby&hide_border=false&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=cytric-74&theme=highcontrast&hide_border=false&border_radius=5" height="150" />
 </div>
 
 ---

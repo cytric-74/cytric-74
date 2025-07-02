@@ -5,17 +5,13 @@
 </p>
 
 <div align="left">
-  <img src="cat_roll.gif" width="40" height="40" />
-</div>
-
-<div align="right">
   <img src="https://streak-stats.demolab.com?user=cytric-74&theme=dracula&hide_border=false&border_radius=5" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=cytric-74&theme=dracula&no-frame=true&margin-w=8" height="150" />
 </div>
 
 ---
 
-### 🛠️ Me, In Binary and Chaos
+### <img src="cat_roll.gif" width="40" height="40" style="vertical-align: middle;"> Me, In Binary and Chaos
 
 <p align="left">
 

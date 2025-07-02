@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 <p align="left">
   <em>“If data was fuel, I’d be an engine running at 13,000 RPM. Add a guitar riff, and that’s me deploying a pipeline.”</em>
 </p>

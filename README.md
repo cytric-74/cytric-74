@@ -4,7 +4,11 @@
   <em>“If data was fuel, I’d be an engine running at 13,000 RPM. Add a guitar riff, and that’s me deploying a pipeline.”</em>
 </p>
 
-<div align="center">
+<div align="left">
+  <img src="cat_roll.gif" width="40" height="40" />
+</div>
+
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=cytric-74&theme=dracula&hide_border=false&border_radius=5" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=cytric-74&theme=dracula&no-frame=true&margin-w=8" height="150" />
 </div>

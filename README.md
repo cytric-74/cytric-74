@@ -1,9 +1,4 @@
 <h1 align="left">Its me cytric!</h1>
-
-<p align="left">
-  <em>“If data was fuel, I’d be an engine running at 13,000 RPM. Add a guitar riff, and that’s me deploying a pipeline.”</em>
-</p>
-
 <div align="left">
   <a href="https://instagram.com/roh28j" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -21,6 +16,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
+<p align="left">
+  <em>“If data was fuel, I’d be an engine running at 13,000 RPM. Add a guitar riff, and that’s me deploying a pipeline.”</em>
+</p>
 
 
 <div align="left">

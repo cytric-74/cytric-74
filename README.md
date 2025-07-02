@@ -6,7 +6,6 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=cytric-74&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=cytric-74&theme=dracula&no-frame=true&margin-w=8" height="150" />
 </div>
 
 ---

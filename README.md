@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="cat_roll.gif" width="40" height="40" style="vertical-align: middle;"> Me, In Binary and Chaos
+## <img src="cat_roll.gif" width="30" height="30" style="vertical-align: middle;"> Me, In Binary and Chaos
 
 <p align="left">
 

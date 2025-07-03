@@ -6,7 +6,8 @@
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/roh28j)
 
 <p align="left">
-  <em>“If data was fuel, I’d be an engine running at 13,000 RPM. Add a guitar riff, and that’s me deploying a pipeline.”</em>
+  <em>“If data was fuel, I’d be an engine running at 13,000 RPM. Add a guitar riff, and that’s me deploying a pipeline.”
+  </em>
 </p>
 
 

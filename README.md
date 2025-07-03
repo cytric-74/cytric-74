@@ -12,8 +12,8 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cytric-74&theme=highcontrast&hide_border=false&border_radius=5" height="150" />
-  <img src= "github.gif" height="150" style="margin-left:20px;" />
+  <img src="https://streak-stats.demolab.com?user=cytric-74&theme=highcontrast&hide_border=false&border_radius=5" height="200" />
+  <img src="github.gif" height="200" style="margin-left:30px;" />
 </div>
 
 

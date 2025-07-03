@@ -11,9 +11,9 @@
 </p>
 
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=cytric-74&theme=highcontrast&hide_border=false&border_radius=5" height="150" />
-  <img src= "github.gif" height="150" />
+  <img src= "github.gif" height="150" style="margin-left:20px;" />
 </div>
 
 

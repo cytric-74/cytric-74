@@ -11,13 +11,17 @@
 </p>
 
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=cytric-74&theme=highcontrast&hide_border=false&border_radius=5" height="150" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=cytric-74&theme=highcontrast&hide_border=false&border_radius=5" height="150" />
+    </td>
+    <td>
+      <img src="github.gif" height="150" />
+    </td>
+  </tr>
+</table>
 
-<div align="right"><img src="github.gif" height="150" /> </div>
-
----
 
 ## <img src="cat_roll.gif" width="30" height="30" style="vertical-align: middle;"> Me, In Binary and Chaos
 

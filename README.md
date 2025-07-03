@@ -15,6 +15,8 @@
   <img src="https://streak-stats.demolab.com?user=cytric-74&theme=highcontrast&hide_border=false&border_radius=5" height="150" />
 </div>
 
+<div align="right"><img src="github.gif" height="150" /> </div>
+
 ---
 
 ## <img src="cat_roll.gif" width="30" height="30" style="vertical-align: middle;"> Me, In Binary and Chaos
